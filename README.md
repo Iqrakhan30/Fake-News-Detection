@@ -3,9 +3,9 @@ The Feedback Application is a responsive web-based platform that allows users to
 
 ## Feedback Application
 
-## Project Overview
+# Project Overview
 The **Feedback Application** is a responsive and interactive web-based platform designed to collect and display user feedback effectively.  
-It allows users to rate services, submit comments and categorize their feedback as General, Bug Report, Feature Request, or Suggestion.
+It allows users to rate services, submit comments and categorize their feedback as General, Bug Report, Feature Request, or Suggestion
 
 This project is built using **HTML**, **Tailwind CSS**, and **JavaScript**, showcasing modern front-end development practices such as dynamic DOM manipulation, responsive design, and event-driven interactivity.
 
@@ -56,7 +56,7 @@ Navigate to the Project Folder
 bash
 Copy code
 cd feedback-application
-Run the Application
+Run the Application.
 
 Simply open the file index.html in any modern web browser.
 
@@ -82,8 +82,8 @@ Screenshots
 Feedback Form	Feedback List.
 Form Screenshot	Example feedback entries and statistics section
 
-Future Enhancements
-Store feedback data using localStorage or Firebase
+Future Enhancements.
+Store feedback data using localStorage or Firebase.
 
 Add a backend (Node.js / PHP / Python Flask) for real database storage.
 
