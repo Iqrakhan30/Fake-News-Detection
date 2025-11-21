@@ -16,7 +16,7 @@ This project is built using **HTML**, **Tailwind CSS**, and **JavaScript**, show
 - **Interactive Star Rating System**  
   Users can select a rating between 1–5 stars with hover and click effects.
 
-- **Feedback Form**  
+- **Feedback Form*
   Users can submit their name, email (optional), rating, feedback type, and comments.
 
 - **Anonymous Submission**  
@@ -27,7 +27,7 @@ This project is built using **HTML**, **Tailwind CSS**, and **JavaScript**, show
 
 - **Feedback Statistics Section**  
   Displays sample statistics such as:
-  - Total Submissions  
+  - Total Submissions. 
   - Average Rating  
   - Recommendation Percentage  
 
