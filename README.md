@@ -11,7 +11,7 @@ This project is built using **HTML**, **Tailwind CSS**, and **JavaScript**, show
 
 ---
 
-## Features
+# Features
 
 - **Interactive Star Rating System**  
   Users can select a rating between 1–5 stars with hover and click effects.
