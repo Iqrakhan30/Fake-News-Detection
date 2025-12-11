@@ -11,7 +11,7 @@ This project is built using **HTML**, **Tailwind CSS**, and **JavaScript**, show
 
 ---
 
-# Features
+## Features
 
 - **Interactive Star Rating System**  
   Users can select a rating between 1–5 stars with hover and click effects.
@@ -36,7 +36,7 @@ This project is built using **HTML**, **Tailwind CSS**, and **JavaScript**, show
 
 ---
 
-# Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |-------------|----------|
@@ -46,7 +46,7 @@ This project is built using **HTML**, **Tailwind CSS**, and **JavaScript**, show
 
 ---
 
-# Installation & Usage
+## Installation & Usage
 
 1. **Clone the Repository**
    ```bash
@@ -54,7 +54,7 @@ This project is built using **HTML**, **Tailwind CSS**, and **JavaScript**, show
 Navigate to the Project Folder.
 
 bash
-Copy code
+Copy code.
 cd feedback-application
 Run the Application.
 
