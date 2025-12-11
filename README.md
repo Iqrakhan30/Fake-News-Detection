@@ -3,7 +3,7 @@ The Feedback Application is a responsive web-based platform that allows users to
 
 # Feedback Application
 
-## Project Overview
+# Project Overview
 The **Feedback Application** is a responsive and interactive web-based platform designed to collect and display user feedback effectively.  
 It allows users to rate services, submit comments and categorize their feedback as General, Bug Report, Feature Request, or Suggestion. 
 
@@ -11,18 +11,18 @@ This project is built using **HTML**, **Tailwind CSS**, and **JavaScript**, show
 
 ---
 
-## Features
+# Features
 
 - **Interactive Star Rating System**  
   Users can select a rating between 1–5 stars with hover and click effects.
 
-- **Feedback Form*
+- *Feedback Form*
   Users can submit their name, email (optional), rating, feedback type, and comments.
 
-- **Anonymous Submission**  
+- *Anonymous Submission**  
   Option to submit feedback without revealing the user's identity.
 
-- **Live Feedback Display**  
+- *Live Feedback Display**  
   Submitted feedback instantly appears in the “Recent Feedback” section without reloading the page.
 
 - **Feedback Statistics Section**  
@@ -36,7 +36,7 @@ This project is built using **HTML**, **Tailwind CSS**, and **JavaScript**, show
 
 ---
 
-## Technologies Used
+# Technologies Used
 
 | Technology | Purpose |
 |-------------|----------|
@@ -46,7 +46,7 @@ This project is built using **HTML**, **Tailwind CSS**, and **JavaScript**, show
 
 ---
 
-## Installation & Usage
+# Installation & Usage
 
 1. **Clone the Repository**
    ```bash
@@ -89,7 +89,7 @@ Add a backend (Node.js / PHP / Python Flask) for real database storage.
 
 Display real-time statistics based on actual user feedback.
 
-Implement user authentication and admin dashboard.
+Implement user authentication and admin dashboard
 
 Author
 Iqra Khan
@@ -98,5 +98,5 @@ Kanpur, India
 [khanniqraa474@gmail.com]
 
 License
-This project is open-source and available under the MIT License. 
+This project is open-source and available under the MIT License
 
