@@ -1,7 +1,7 @@
 # Fake-News-Detection
 The Feedback Application is a responsive web-based platform that allows users to share feedback, rate services, and submit suggestions. Built using HTML, Tailwind CSS, and JavaScript, it offers an interactive and real-time experience. It highlights key front-end concepts like form handling, DOM manipulation, and responsive design.
 
-# Feedback Application.
+# Feedback Application
 
 # Project Overview.
 The **Feedback Application** is a responsive and interactive web-based platform designed to collect and display user feedback effectively.  
@@ -11,7 +11,7 @@ This project is built using **HTML**, **Tailwind CSS**, and **JavaScript**, show
 
 ---
 
-# Features.
+# Features
 
 - **Interactive Star Rating System**  
   Users can select a rating between 1–5 stars with hover and click effects.
@@ -36,7 +36,7 @@ This project is built using **HTML**, **Tailwind CSS**, and **JavaScript**, show
 
 ---
 
-# Technologies Used.
+# Technologies Used
 
 | Technology | Purpose |
 |-------------|----------|
@@ -89,11 +89,11 @@ Add a backend (Node.js / PHP / Python Flask) for real database storage.
 
 Display real-time statistics based on actual user feedback.
 
-Implement user authentication and admin dashboard
+Implement user authentication and admin dashboard.
 
 Author.
-Iqra Khan
-BCA, Final Year Student
+Iqra Khan.
+BCA, Final Year Student.
 Kanpur, India.
 [khanniqraa474@gmail.com]
 
