@@ -3,9 +3,7 @@ The Feedback Application is a responsive web-based platform that allows users to
 
 # Feedback Application.
 
-
 # Project Overview.
-
 The **Feedback Application** is a responsive and interactive web-based platform designed to collect and display user feedback effectively.  
 It allows users to rate services, submit comments and categorize their feedback as General, Bug Report, Feature Request, or Suggestion. 
 
@@ -14,7 +12,6 @@ This project is built using **HTML**, **Tailwind CSS**, and **JavaScript**, show
 ---
 
 # Features
-
 - **Interactive Star Rating System**  
   Users can select a rating between 1–5 stars with hover and click effects.
 
@@ -26,7 +23,6 @@ This project is built using **HTML**, **Tailwind CSS**, and **JavaScript**, show
 
 - *Live Feedback Display**  
   Submitted feedback instantly appears in the “Recent Feedback” section without reloading the page.
-
 
 - **Feedback Statistics Section**  
   Displays sample statistics such as:
@@ -50,7 +46,6 @@ This project is built using **HTML**, **Tailwind CSS**, and **JavaScript**, show
 ---
 
 # Installation & Usage.
-
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/yourusername/feedback-application.git
