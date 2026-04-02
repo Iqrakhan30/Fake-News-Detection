@@ -22,18 +22,18 @@ This project is built using **HTML**, **Tailwind CSS**, and **JavaScript**, show
   Users can submit their name, email (optional), rating, feedback type, and comments.
 
 - *Anonymous Submission**  
-  Option to submit feedback without revealing the user's identity.
+  Option to submit feedback without revealing the user's identity
 
 - *Live Feedback Display**  
   Submitted feedback instantly appears in the “Recent Feedback” section without reloading the page.
 
-- **Feedback Statistics Section**  
+- **Feedback Statistics Section**,
   Displays sample statistics such as:
   - Total Submissions. 
   - Average Rating.  
   - Recommendation Percentage.  
 
-- **Responsive Design**  
+- **Responsive Design**  ;
   Built using Tailwind CSS for seamless performance across all devices.
 
 ---
